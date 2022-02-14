@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T07:39:54.695Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="5cKoFVtB7LK6xi0bm1HV" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T07:40:55.075Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="02qK60TMt8KVGW8444kv" version="16.5.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1242" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -139,9 +139,6 @@
         <mxCell id="2067" value="Media Services" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.media_service;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="821" y="703" width="45" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZPMA937PmxU5LzK_x6Uo-2085" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2068" target="2045">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="2068" value="Cloud&lt;div&gt;Services&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="233" y="397" width="140" height="223" as="geometry" />
         </mxCell>
@@ -264,6 +261,9 @@
         </mxCell>
         <mxCell id="ZPMA937PmxU5LzK_x6Uo-2102" value="科幻变为现实&lt;br&gt;&lt;br&gt;现实如同科幻&lt;br&gt;&lt;br&gt;亦人亦神" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="77.5" y="680" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPMA937PmxU5LzK_x6Uo-2103" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/super-batman/24/3151595_-_decepticon_movie_robot_transformers-128.png;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="107" y="644.5" width="35.5" height="35.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
