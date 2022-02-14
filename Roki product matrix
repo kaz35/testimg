@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T07:59:25.596Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="atQZ7ORh4I0_aessErqu" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T08:01:30.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="2pRR6hQ-OXJOcTl5YCYr" version="16.5.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1242" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -280,8 +280,8 @@
         <mxCell id="ZPMA937PmxU5LzK_x6Uo-2108" value="Rokid X-craft&lt;br&gt;&lt;br&gt;Rokid Glass&lt;br&gt;&lt;br&gt;Rokid Air" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="258.26" y="481.5" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZPMA937PmxU5LzK_x6Uo-2109" value="科幻变为现实&lt;br&gt;&lt;br&gt;现实如同科幻&lt;br&gt;&lt;br&gt;亦人亦神" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="257.5" y="669" width="90" height="80" as="geometry" />
+        <mxCell id="ZPMA937PmxU5LzK_x6Uo-2109" value="模式识别&lt;br&gt;&lt;br&gt;算法处理&lt;br&gt;&lt;br&gt;合成输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="669" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
