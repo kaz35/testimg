@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T07:45:08.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="ahoTclGOUyqpKuxDo9-M" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T07:46:32.811Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="cIwdVdTi36xyIGKs3OMv" version="16.5.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1242" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2019" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
-          <mxGeometry x="40" y="130" width="165" height="670" as="geometry" />
+          <mxGeometry x="40" y="130" width="165" height="660" as="geometry" />
         </mxCell>
         <mxCell id="2020" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
           <mxGeometry x="220" y="120" width="165" height="670" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="-70" y="80" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2046" value="Mobile Services" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.mobile_services;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="287" y="661" width="32.5" height="50" as="geometry" />
+          <mxGeometry x="-72.5" y="463" width="32.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2047" value="&lt;font color=&quot;#333333&quot;&gt;Rokid Product Matrix&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=36;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="50" width="1060" height="50" as="geometry" />
@@ -140,13 +140,13 @@
           <mxGeometry x="821" y="703" width="45" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2068" value="Cloud&lt;div&gt;Services&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="233" y="397" width="140" height="223" as="geometry" />
+          <mxGeometry x="233.25" y="196" width="136.75" height="184" as="geometry" />
         </mxCell>
         <mxCell id="2069" value="Cloud" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.cloud;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="278" y="449" width="50" height="32.5" as="geometry" />
+          <mxGeometry x="-40" y="297.5" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="2070" value="Virtual Machine" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.virtual_machine;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="278" y="536" width="50" height="40" as="geometry" />
+          <mxGeometry x="-110" y="336" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2071" value="Web Dashboards" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.laptop;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="998" y="301" width="50" height="30" as="geometry" />
@@ -245,7 +245,7 @@
           <mxGeometry x="52.5" y="398.5" width="140" height="177.5" as="geometry" />
         </mxCell>
         <mxCell id="ZPMA937PmxU5LzK_x6Uo-2097" value="人机结合" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="52.5" y="610" width="140" height="163" as="geometry" />
+          <mxGeometry x="52.5" y="592.5" width="140" height="163" as="geometry" />
         </mxCell>
         <mxCell id="ZPMA937PmxU5LzK_x6Uo-2098" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/software-engineering-and-video-gaming/512/67_Eye_illuminati_pyramid_triangle-128.png;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="94" y="226.5" width="57" height="57" as="geometry" />
@@ -260,16 +260,22 @@
           <mxGeometry x="102.5" y="435" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZPMA937PmxU5LzK_x6Uo-2102" value="科幻变为现实&lt;br&gt;&lt;br&gt;现实如同科幻&lt;br&gt;&lt;br&gt;亦人亦神" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="77.5" y="680" width="90" height="80" as="geometry" />
+          <mxGeometry x="77.5" y="671.5" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZPMA937PmxU5LzK_x6Uo-2103" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/super-batman/24/3151595_-_decepticon_movie_robot_transformers-128.png;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="107" y="644.5" width="35.5" height="35.5" as="geometry" />
+          <mxGeometry x="104.75" y="624" width="35.5" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="ZPMA937PmxU5LzK_x6Uo-2104" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Glasses-128.png;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="260" y="247" width="83" height="83" as="geometry" />
+          <mxGeometry x="-60.5" y="147" width="83" height="83" as="geometry" />
         </mxCell>
         <mxCell id="ZPMA937PmxU5LzK_x6Uo-2105" value="AR眼镜" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="273.25" y="316" width="60" height="20" as="geometry" />
+          <mxGeometry x="-32.5" y="230" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPMA937PmxU5LzK_x6Uo-2106" value="Cloud&lt;div&gt;Services&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="234.88" y="396" width="136.75" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPMA937PmxU5LzK_x6Uo-2107" value="Cloud&lt;div&gt;Services&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="233.25" y="596" width="136.75" height="164" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
