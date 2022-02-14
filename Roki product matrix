@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T03:38:15.755Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="KiLwJf3NroYArlqe7mjE" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T07:02:43.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="0Z8PmeJAzTlHgQLZdtN0" version="16.5.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1279" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="2049" value="Data&lt;div&gt;Management&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="413" y="460" width="140" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPMA937PmxU5LzK_x6Uo-2092" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#333333;" edge="1" parent="1" source="2050" target="2051">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2050" value="SQL Reporting" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.sql_reporting;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="460" y="258" width="40" height="50" as="geometry" />
@@ -238,8 +241,8 @@
         <mxCell id="ZPMA937PmxU5LzK_x6Uo-2089" value="" style="shape=mxgraph.arrows.two_way_arrow_horizontal;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=none;dashed=1;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" vertex="1" parent="1">
           <mxGeometry x="180" y="140.5" width="67" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="ZPMA937PmxU5LzK_x6Uo-2090" value="体验升级" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="52.5" y="208.5" width="140" height="223" as="geometry" />
+        <mxCell id="ZPMA937PmxU5LzK_x6Uo-2090" value="感知" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="208.5" width="140" height="151.5" as="geometry" />
         </mxCell>
         <mxCell id="ZPMA937PmxU5LzK_x6Uo-2091" value="协同提效" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="52.5" y="446" width="140" height="223" as="geometry" />
