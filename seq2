@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T06:17:18.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Dj6J36Jg4Zxr4c3pCi-l" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T06:24:54.410Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="2Oe8acfmy3rAwaJ4ZpaT" version="16.6.2" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1162" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -573,6 +573,9 @@
         </mxCell>
         <mxCell id="2qCGegWhEK2aUQW7Werg-192" value="离开频道" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="1150" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2qCGegWhEK2aUQW7Werg-193" value="31-40" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="820" width="55" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
