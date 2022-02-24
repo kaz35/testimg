@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T05:48:08.389Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="NgZDDYd1w-tn6JAHqS5c" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T05:48:33.984Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="nVeep_qMu4GAkOj-hMc3" version="16.6.2" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1162" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -537,6 +537,19 @@
             <mxPoint x="822.4999999999998" y="784.1700000000001" as="sourcePoint" />
             <mxPoint x="822" y="834" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2qCGegWhEK2aUQW7Werg-171" value="" style="curved=1;endArrow=classic;html=1;sketch=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="827.5" y="600" as="sourcePoint" />
+            <mxPoint x="827.5" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="867.5" y="600" />
+              <mxPoint x="927.5" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2qCGegWhEK2aUQW7Werg-172" value="转发视频流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="630" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
