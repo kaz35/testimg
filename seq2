@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T06:16:24.737Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="cwjQsmVoUkr7N_R5MD4Q" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T06:16:41.198Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="tWD26TswAc59aNrHF1Gw" version="16.6.2" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1162" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -567,6 +567,9 @@
         </mxCell>
         <mxCell id="2qCGegWhEK2aUQW7Werg-190" value="频道事件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="105" y="870" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2qCGegWhEK2aUQW7Werg-191" value="频道操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1020" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
