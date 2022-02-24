@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T04:31:38.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="efJav1k8xKHRRVt-agB9" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T04:31:48.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="7h2-fS644XJhh8bmXB01" version="16.6.2" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="999" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -91,12 +91,9 @@
             <mxPoint x="674.6527777777778" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24" value="&lt;&lt;service&gt;&gt;&#xa;:CVSService" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
-          <mxGeometry x="750" y="60" width="105" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="25" value="" style="edgeStyle=none;endArrow=none;dashed=1" parent="1" source="24" target="26" edge="1">
+        <mxCell id="25" value="" style="edgeStyle=none;endArrow=none;dashed=1" parent="1" target="26" edge="1">
           <mxGeometry x="727.3350694444446" y="165" width="100" height="100" as="geometry">
-            <mxPoint x="802.2588734567901" y="110" as="sourcePoint" />
+            <mxPoint x="802.5" y="110" as="sourcePoint" />
             <mxPoint x="802.5761959876544" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -121,7 +118,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="30" value="&lt;&lt;javascript&gt;&gt;&#xa;:GimqRequest&#xa;Batch" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
+        <mxCell id="30" value="RTCServer" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
           <mxGeometry x="952.5" y="60" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="33" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=none;dashed=1" parent="1" source="4" target="2" edge="1">
