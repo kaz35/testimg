@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T04:30:57.935Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="PZH-mmeQWKv6rUAMGFt0" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T04:31:38.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="efJav1k8xKHRRVt-agB9" version="16.6.2" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="999" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="342.5" y="180" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7" value="SDK" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
-          <mxGeometry x="295" y="60" width="105" height="50" as="geometry" />
+          <mxGeometry x="380" y="60" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8" value="" style="edgeStyle=none;endArrow=none;dashed=1" parent="1" source="7" target="6" edge="1">
           <mxGeometry x="272.3350694444445" y="165" width="100" height="100" as="geometry">
@@ -64,12 +64,9 @@
             <mxPoint x="462.5" y="201.20563271604937" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="15" value="&lt;&lt;javascript&gt;&gt;&#xa;:Proxy" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
-          <mxGeometry x="462.2839506172839" y="169.99999999999997" width="105" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="16" value="" style="edgeStyle=none;endArrow=none" parent="1" source="15" target="17" edge="1">
+        <mxCell id="16" value="" style="edgeStyle=none;endArrow=none" parent="1" target="17" edge="1">
           <mxGeometry x="437.042824074074" y="270" width="100" height="100" as="geometry">
-            <mxPoint x="514.542824074074" y="219.99999999999997" as="sourcePoint" />
+            <mxPoint x="514.7839506172838" y="220" as="sourcePoint" />
             <mxPoint x="514.542824074074" y="239.99999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -85,7 +82,7 @@
         <mxCell id="21" value="" style="fillColor=#CC4125;strokeColor=#660000" parent="1" vertex="1">
           <mxGeometry x="670" y="269.3942901234568" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="22" value="&lt;&lt;servlet&gt;&gt;&#xa;:CVSServlet" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
+        <mxCell id="22" value="业务Server" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
           <mxGeometry x="622.5" y="60" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="23" value="" style="edgeStyle=none;endArrow=none;dashed=1" parent="1" source="22" target="21" edge="1">
